@@ -1,0 +1,18 @@
+#movieSpots .col-md-3 {
+  margin-bottom: 16px;
+}
+
+#movieSpots img {
+  width: 65%;
+  margin-bottom: 16px;
+}
+
+@media(min-width:960px) {
+  #movieSpots .col-md-3 .well {
+    height: 390px;
+  }
+
+  #movieSpots .col-md-3 img {
+    height: 240px;
+  }
+} 
